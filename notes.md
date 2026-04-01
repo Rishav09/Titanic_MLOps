@@ -30,3 +30,8 @@ fs = project.get_feature_store()
                                  ],
         query=selected_features
     )
+
+
+
+## Exporting the png
+Zoom-150% and Border Width = 50%
